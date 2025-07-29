@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.searchBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    flex:1;
+}
+
+button{
+    
+    border: none;
+    transition: 0.3s ease;
+}
+button:hover{
+
+transform: scale(1.1);
+}
+@media (max-width:600px) {
+    
+}

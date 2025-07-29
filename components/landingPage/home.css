@@ -1,0 +1,29 @@
+/* .home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  color: #333;
+
+} */
+
+/* .smCard{
+  justify-content: space-between;
+  align-items: center;
+  display:flex;
+  padding: 15px;
+  gap:50px;
+  border-radius: 5px;
+  height: 80px;
+
+
+} */
+
+.F-nav{
+  padding: 5px 20px;
+}
+
+select:focus {
+  outline: none;
+}
