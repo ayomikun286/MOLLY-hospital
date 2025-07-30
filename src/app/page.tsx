@@ -1,12 +1,10 @@
-import React from 'react'
+import React from 'react';
 import Sechome from '../../components/landingPage/Sechome';
 
-
-export const page = () => {
+export default function Page() {
   return (
-    <Sechome/>
-  
-  )
+    <main>
+      <Sechome />
+    </main>
+  );
 }
-
-export default page;
