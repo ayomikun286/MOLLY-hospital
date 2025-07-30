@@ -17,7 +17,6 @@ import Vector from "../../assets/svg/Vector";
 import Vector2 from "../../assets/svg/Vector2";
 import Vector3 from "../../assets/svg/Vector3";
 import Arrow from "../../assets/svg/Arrow";
-import Groupk from "../../assets/svg/Groupk";
 import Loveicon from "../../assets/svg/Loveicon";
 const Sechome = () => {
   return (
