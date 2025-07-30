@@ -145,33 +145,33 @@ const Sechome = () => {
           </h1>
 
           <div className="px-5 md:px-0 space-y-5">
-            <div className="flex justify-between">
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+            <div className="flex space-x-15 md:space-x-30">
+              <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>A Passion for Healing</p>
               </div>
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+               <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>5-Star Care</p>
               </div>
             </div>
-            <div className="flex justify-between">
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+            <div className="flex space-x-30 md:space-x-45">
+              <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>All our best</p>
               </div>
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+              <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>Believe in Us</p>
               </div>
             </div>
-            <div className="flex justify-between">
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+            <div className="flex space-x-12 md:justify-between">
+              <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>A Legacy of Excellence</p>
               </div>
-              <div className="flex space-x-2">
-                <input type="radio" checked className="bg-[#159EEC]" />
+              <div className="flex space-x-2 justify-center items-center">
+               <div className="border-none rounded-full w-3 h-3 bg-[#159EEC]"></div>
                 <p>Always Caring</p>
               </div>
             </div>
